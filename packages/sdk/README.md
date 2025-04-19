@@ -1,4 +1,4 @@
-# TON Connect SDK
+npm i @tonkeeper/tonconnect-sdk # TON Connect SDK
 
 Use it to connect your app to TON wallets via TonConnect protocol. 
 You can find more details and the protocol specification in the [docs](https://docs.ton.org/develop/dapps/ton-connect/overview).
